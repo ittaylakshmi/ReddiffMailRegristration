@@ -48,6 +48,7 @@ public class ReddiffAcctCreation {
 		else 
 		{
 			System.out.println("Id already Exist. Please Choose New Reddiffmail ID");
+			System.out.println("Display");
 		}
 	}
 	
